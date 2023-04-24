@@ -1,0 +1,107 @@
+body{
+    margin: 20px;
+    padding: 20px;
+}
+
+
+
+.head{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    /* margin-top: 0%; */
+    /* margin-left: 0%; */
+
+}
+.welcome{
+    height: 80px;
+    width:  500px;
+    display: flex;
+    font-size: 60px;
+    position: absolute;
+
+    padding: 20px;
+    left: 125px;
+    top:  50px;
+
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    /* top:  5%;
+    left: 4%; */
+    color: aliceblue;
+    background-color: rgba(51, 56, 61, 0.545);
+    font-family:serif
+}
+
+/* .link2{
+    height: 40px;
+    width:  300px; 
+    display: flex;
+    font-size: 30px;
+    position: absolute;
+    padding: 20px;
+    left: 450px;
+    top:  500px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: aliceblue;
+    background-color: rgba(51, 56, 61, 0.545);
+    font-family:serif  
+}  */
+ .about{
+    height: 100%;
+    width: 100%;
+
+    font-family:serif;
+}
+
+.price{
+    font-family:serif;
+    border-top: solid 5px #5989cf;
+    border-bottom: solid 5px #5989cf;
+}
+
+.addles{
+    font-family:serif;
+    border-top: solid 5px #5989cf;
+    border-bottom: solid 5px #5989cf;
+}
+
+
+.border{
+    font-family:serif;
+    border-top: solid 2px #05080e;
+    border-bottom: solid 2px #05080e;
+}
+.mypic{
+    width: 400px;
+    height: 400px;
+    margin: 30px;
+}
+.teacher{
+    font-family:serif;
+    display: flex;
+}
+
+.pic{
+    height: 150px;
+    width: 150px;
+    margin-left: 40px;
+}
+
+.teacherli{
+    font-family:serif;
+    padding-left: 70px;
+}
+
+.font{
+    font-family: serif;
+}
+
+.pricepic{
+    width: 400px;
+    height:200px;;
+}
